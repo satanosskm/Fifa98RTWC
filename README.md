@@ -1,4 +1,4 @@
-Archipelago Manual for Fifa : Road to the World Cup 98
+**Archipelago Manual for Fifa : Road to the World Cup 98**
 
 I'm not very familiar with code but I wanted to make my idea an AP so I made a manual (very simple, so please be nice, it's my first attempt at anything).
 
