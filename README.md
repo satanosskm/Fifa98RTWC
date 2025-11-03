@@ -3,6 +3,7 @@ I'm not very familiar with code but I wanted to make my idea an AP so I made a m
 It's for the soccer game Fifa 98 (subtitled : "Road to the World Cup 98" but NOT "World Cup 98" that is another game), I used the PS1 version but the PC/N64/Saturn versions probably work (as very similar), and possibly others (as long as the same leagues are included, I didn't check SNES/GB/Sega Genesis versions).
 
 **How to play**
+
 Play friendly games (difficulty and period lenght of your choice) with only teams (yours and opponents) from leagues unlocked (you start with 1 random league unlocked)
 
 **Checks**
