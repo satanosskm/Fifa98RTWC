@@ -5,6 +5,7 @@ SNES and Sega Genesis versions works only in 1.00 (there are no day/night or sta
 GB version is not compatible.
 
 **How to play**
+
 Play friendly games (difficulty and period lenght of your choice) with only teams (yours and opponents) from leagues unlocked under unlocked settings (stadium, difficulty, day/night, weather).
 :warning:  The setting to change the difficulty is in "controller options" in the game for some reason
 
